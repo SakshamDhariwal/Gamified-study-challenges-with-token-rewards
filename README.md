@@ -20,4 +20,5 @@ Our vision is to **incentivize learning** by merging **blockchain technology** w
 - **Contract Address:** `0x37896deef924cbfc693a07e395e11ea1c6e973f9e32b5f422c63cf298456d3a2`  
 
 
+<img width="1710" alt="Screenshot 2025-03-27 at 17 27 25" src="https://github.com/user-attachments/assets/7fbaa36e-01ee-4cf8-a0c1-45b3fea34a4a" />
 
